@@ -16,7 +16,6 @@
 
 - 📊 **Aspiring Data Analyst** with 14+ years of experience in **US Healthcare IT**
 - 🏥 Deep expertise in claims adjudication, prior authorization, and benefit configuration
-- 🏗️ Currently building end-to-end **Data Warehouse & Analytics solutions** using SQL Server & Medallion Architecture
 - 🐍 Expanding skills in **Python**, **Tableau**, and **Data Analytics**
 - 🎯 Passionate about turning complex data into clear, actionable business insights
 - 📍 Based in **Atlanta, GA**
