@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shobhit Gupta 👋</h1>
 
 <p align="center">
-  <em>Senior Business Analyst transitioning into Data Analytics | Healthcare IT Expert | SQL & Python Enthusiast</em>
+  <em>Senior Business Analyst transitioning into Data Analytics | Healthcare IT Expert | SQL & Tableau Enthusiast</em>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 - 📊 **Aspiring Data Analyst** with 14+ years of experience in **US Healthcare IT**
 - 🏥 Deep expertise in claims adjudication, prior authorization, and benefit configuration
-- 🐍 Expanding skills in **Python**, **Tableau**, and **Data Analytics**
-- 🎯 Passionate about turning complex data into clear, actionable business insights
+- 🐍 Expanding skills in **SQL**, **Python**, **Tableau**, and **Data Analytics**
+- 🎯 Passionate about turning complex healthcare data into clear, actionable business insights
 - 📍 Based in **Atlanta, GA**
 
 ---
@@ -45,7 +45,23 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🏥 [ClaimIQ — Healthcare Claims Analytics](https://github.com/Shobhit24Gupta/ClaimIQ-Healthcare-Claims-Analytics)
+
+> An end-to-end Healthcare Analytics project analyzing **266,000+ Medicare claims** to detect fraud patterns, compare provider performance, and profile patient risk using SQL Server and Tableau.
+
+- ✅ Built a **SQL Server database** from scratch with 4 tables and 266K+ rows of Medicare data
+- ✅ Wrote **8 analysis queries** uncovering fraud patterns, cost differences and chronic disease trends
+- ✅ Created **6 SQL Views** abstracting complex logic for clean Tableau connectivity
+- ✅ Built **4 interactive Tableau dashboards** — Claims Overview, Fraud Analytics, Patient Insights, Monthly Trends
+- ✅ Key finding: **Top 10 highest-paid providers are all flagged for fraud** — averaging $10,000+ per claim
+
+**Tech:** `SQL Server 2017` `T-SQL` `SSMS` `Tableau Public` `Medicare Claims Data` `ICD-10` `Healthcare Analytics`
+
+🔗 [View Live Tableau Dashboard](https://public.tableau.com/app/profile/shobhit.gupta6409/viz/HealthcareClaimsAnalytics/Dashboard1-ClaimsOverview?publish=yes)
+
+---
 
 ### 🏗️ [SQL Data Warehouse Project](https://github.com/Shobhit24Gupta/sql-data-warehouse-project)
 
